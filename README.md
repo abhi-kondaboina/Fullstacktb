@@ -1,4 +1,4 @@
 # Fullstacktb
-Today we are Learning git 
+ <h1> Today we are Learning git </h1> 
 <br>
-my instructor is vinay
+<h2> my instructor is vinay </h2>h2>
